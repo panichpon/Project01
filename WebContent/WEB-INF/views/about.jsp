@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Home</title>
+<title>About</title>
 </head>
 <body>
-<h1>Hello World! Spring MVC</h1>
-<a href="${pageContext.request.contextPath}/about">About</a>
+<h1>About</h1>
 </body>
 </html>
